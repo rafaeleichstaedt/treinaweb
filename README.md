@@ -1,2 +1,2 @@
 # treinaweb
-Repository for TreinaWeb courses
+Repository for TreinaWeb courses.
